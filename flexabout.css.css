@@ -1,0 +1,11 @@
+h1{
+    color: rgb(255, 196, 0);
+    text-align: center;
+    background-color: blue;
+    border: 10px solid;
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    padding-top: 15%;
+    outline-style: dotted;
+    }

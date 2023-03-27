@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    background-color: pink;
+    justify-content: space-between;
+    flex-direction:row;
+
+  }
+  .flex-container > div {
+    background-color: rgb(51, 153, 139);
+    margin: 30px;
+    padding: 20px;
+    width: 10px;
+    
+    font-size: 20px;
+ }

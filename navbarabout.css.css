@@ -1,0 +1,11 @@
+h1{
+    color: rgb(255, 136, 0);
+    text-align: justif;
+    background-color: rgb(0, 225, 255);
+    border: 30px solid;
+    width: 400px;
+    height: 250px;
+    margin:10px;
+    padding-bottom: auto;
+    display:inline-block;
+    }

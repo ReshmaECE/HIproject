@@ -1,0 +1,38 @@
+.flex-container {
+  display: flex;
+  list-style-type:none;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding:0;
+  margin:0;
+  border: 2px solid;
+  float:center;
+  font-size: large;
+  background-color: black;
+  
+  
+    
+}
+
+   
+.active{
+
+    display: block;
+  color:white;
+  padding: 12px;
+  text-decoration:none;
+  background-color:green ;
+
+}
+.active1{
+    
+    color:white;
+    text-decoration: none;
+
+    
+
+     
+  
+}
+  
